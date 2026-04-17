@@ -69,7 +69,7 @@ This project was developed as a **Final Year Bachelor's Project** to solve real-
    
 ### Default Admin Login
 - **Username**: `admin`
-- **Password**: `admin` (or the password you set)
+- **Password**: `adminkasi` 
 
 ### Student Login
 Students can register a new account or login after submitting an application.
